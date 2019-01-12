@@ -1,0 +1,164 @@
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Uniport.dll.config
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Uniport.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Uniport.pdb
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\EntityFramework.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Owin.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\WebGrease.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\EntityFramework.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\obj\Debug\Uniport.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\obj\Debug\Uniport.dll
+C:\Users\USER\Desktop\uniport\Uniport\Uniport\obj\Debug\Uniport.pdb
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\ApplicationInsights.config
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Uniport.dll.config
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Uniport.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Uniport.pdb
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\EntityFramework.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AI.Web.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Owin.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\WebGrease.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AI.Web.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\EntityFramework.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\obj\Debug\Uniport.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\obj\Debug\Uniport.dll
+C:\Users\PC\Desktop\web ödevi\uniport\Uniport\Uniport\obj\Debug\Uniport.pdb

@@ -1,0 +1,104 @@
+﻿@{
+    ViewBag.Title = "Satıştakiler";
+}
+
+<div class="col-xs-3 col-md-2 col-lg-2" style=" margin-top:-4%"> <img src="~/resim/21bf8be6-1c9d-4901-87e2-b2d7bd8a941c.png" title="Hoşgeldiniz" class="logoresim" style="width:200px; margin-top:-10%"></div>
+
+<div class="row" style="margin-top:4.5%; margin-left:-5%;">
+    <div class="col-md-4 col-xs-5 col-lg-4" style="margin-top:0%;">
+        <form method="post" action="arama.php">
+
+
+            <input class="arama" type="text" id="loginasd" placeholder="Buna Bakmıştım..." style=" border-radius:6px;">
+
+
+        </form>
+
+    </div>
+
+
+    <div class="col-md-2 col-xs-1 col-lg-2" style="height:30px; margin-top:0.1%; margin-left:-3.3%; ">
+        <div class="wrapper-demo">
+            <div id="dd" class="wrapper-dropdown-1" tabindex="1">
+                <span>Kategori</span>
+                <ul class="dropdown" tabindex="1">
+                    <li><a href="#">Giyim</a></li>
+                    <li><a href="#">Elektronik</a></li>
+                    <li><a href="#">Bilgisayar</a></li>
+                    <li><a href="#">Ev</a></li>
+                    <li><a href="#">Araba</a></li>
+                    <li><a href="#">Aksesuar</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="col-md-4  col-xs-11 col-lg-3 " style="margin-top:-0.5%; ">
+
+        <form method="post" action="giris.php" align="right">
+
+            <input type="text" id="logintx" placeholder="Email Id" name="uidlog">
+            <input type="password" id="passwordtx" name="upasslog" placeholder="***">
+            <input type="submit" value="Login" id="lbtn"></br>
+            <uyesif class="uyesif">  <a class="uyeol" href="#">Üye OL</a> <a class="sifremiunuttum" href="#">Şifremi Unuttum</a></uyesif>
+        </form>
+
+
+    </div>
+</div>
+
+<div class="secenekpaneli w3-col" style="">
+    <form style="height:100px; " methot="post" action="arama.php">
+        <i>Fiyat:</i>
+        <input type="text" placeholder="Min" style="width:50px; border-color:#white;  border-radius:10px; padding:3px;">
+        <strong>-</strong>
+        <input type="text" placeholder="Max" style="width:50px; border-color:#white;  border-radius:10px; padding:3px;">
+        <yaz style="margin-left:30px;">Şuna Göre Sırala : </yaz>
+        <select style="border-radius:5px;">
+            <option value="volvo">Fiyat(Artan)</option>
+            <option value="saab">Fiyat(Azalan)</option>
+            <option value="opel">Tarih(Artan)</option>
+            <option value="audi">Tarih(Azalan)</option>
+            <option value="audi">Tarih(Azalan)</option>
+            <option value="audi">Tarih(Azalan)</option>
+        </select>
+
+        <asda class="squaredTwo " style="margin-left: 50px; z-index:1;">
+            <input type="checkbox" value="None" id="squaredTwo" name="check" />
+            <label style="margin-right:6px;" for="squaredTwo"></label>
+            <yaz style="font-size:13px;">&nbsp;Ücretsiz Kargo</yaz>
+        </asda>
+
+        <asda class="squaredTwo2 " style="margin-left: 40px; z-index:1; ">
+            <input type="checkbox" value="None" id="squaredTwo2" name="check" />
+            <label style="margin-right:6px;" for="squaredTwo2"></label>
+            <yaz style="font-size:13px;">&nbsp;<b style="color:purple;"> 4.0</b> Ve Üstü Puan</yaz>
+        </asda>
+
+        <asd class="squaredTwo3 " style="margin-left: 30px; z-index:1 ;">
+            <input type="checkbox" value="None" id="squaredTwo3" name="check" />
+            <label style="margin-right:6px;" for="squaredTwo3"></label>
+            <yaz style="font-size:13px;">&nbsp;Ücretsiz</yaz>
+        </asd>
+        </br>
+        <center>
+            <button value="submit" placeholder="ok" style="margin-right:340px;" id="filtreliarama"> OK<button />
+        </center>
+    </form>
+
+</div>
+
+
+<div class="col-md-10 col-lg-10 col-xs-12 row " style="margin-left:10%; z-index:1; ">
+    <a href="urun.php" style=""><div class="aramad w3-col" style="">	<img class="aramaicerik" src="~/resim/gf1.jpg" alt="" style="padding-top:10px;"> <p style="margin-left:5px;"> Ürün adı:</br>Fiyatı:</br>Adedi:</br>Koyuldugu Tarih:</br>Kullanıcı Degerlendirmesi:</br>Satıcı Yorumu: </p></div></a>
+    <a href="urun.php" style=""><div class="aramad w3-col">	<img class="aramaicerik" src="~/resim/gf2.jpg" alt="" style="padding-top:10px;"><p style="margin-left:5px;"> Ürün adı:</br>Fiyatı:</br>Adedi:</br>Koyuldugu Tarih:</br>Kullanıcı Degerlendirmesi:</br>Satıcı Yorumu: </p></div></a>
+    <a href="urun.php" style=""><div class="aramad w3-col">	<img class="aramaicerik" src="~/resim/gf3.jpg" alt="" style="padding-top:10px;"><p style="margin-left:5px;"> Ürün adı:</br>Fiyatı:</br>Adedi:</br>Koyuldugu Tarih:</br>Kullanıcı Degerlendirmesi:</br>Satıcı Yorumu: </p></div></a>
+    <a href="urun.php" style=""><div class="aramad w3-col">	<img class="aramaicerik" src="~/resim/gf4.jpg" alt="" style="padding-top:10px;"><p style="margin-left:5px;"> Ürün adı:</br>Fiyatı:</br>Adedi:</br>Koyuldugu Tarih:</br>Kullanıcı Degerlendirmesi:</br>Satıcı Yorumu: </p></div></a>
+    <a href="urun.php" style=""><div class="aramad w3-col">	<img class="aramaicerik" src="~/resim/1.jpg" alt="" style="padding-top:10px;"><p style="margin-left:5px;"> Ürün adı:</br>Fiyatı:</br>Adedi:</br>Koyuldugu Tarih:</br>Kullanıcı Degerlendirmesi:</br>Satıcı Yorumu: </p></div></a>
+    <a href="urun.php" style=""><div class="aramad w3-col">	<img class="aramaicerik" src="~/resim/gf3.jpg" alt="" style="padding-top:10px;"><p style="margin-left:5px;"> Ürün adı:</br>Fiyatı:</br>Adedi:</br>Koyuldugu Tarih:</br>Kullanıcı Degerlendirmesi:</br>Satıcı Yorumu: </p></div></a>
+    <a href="urun.php" style=""><div class="aramad w3-col">	<img class="aramaicerik" src="~/resim/gf1.jpg" alt="" style="padding-top:10px;"><p style="margin-left:5px;"> Ürün adı:</br>Fiyatı:</br>Adedi:</br>Koyuldugu Tarih:</br>Kullanıcı Degerlendirmesi:</br>Satıcı Yorumu: </p></div></a>
+    <a href="urun.php" style=""><div class="aramad w3-col">	<img class="aramaicerik" src="~/resim/gf1.jpg" alt="" style="padding-top:10px;"><p style="margin-left:5px;"> Ürün adı:</br>Fiyatı:</br>Adedi:</br>Koyuldugu Tarih:</br>Kullanıcı Degerlendirmesi:</br>Satıcı Yorumu: </p></div></a>
+    <a href="urun.php" style=""><div class="aramad w3-col">	<img class="aramaicerik" src="~/resim/gf3.jpg" alt="" style="padding-top:10px;"><p style="margin-left:5px;"> Ürün adı:</br>Fiyatı:</br>Adedi:</br>Koyuldugu Tarih:</br>Kullanıcı Degerlendirmesi:</br>Satıcı Yorumu: </p></div></a>
+</div>
+

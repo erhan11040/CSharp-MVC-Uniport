@@ -1,0 +1,26 @@
+#lbtn {
+  background: #f8ff29;
+  background-image: -webkit-linear-gradient(top, #f8ff29, #b82b2b);
+  background-image: -moz-linear-gradient(top, #f8ff29, #b82b2b);
+  background-image: -ms-linear-gradient(top, #f8ff29, #b82b2b);
+  background-image: -o-linear-gradient(top, #f8ff29, #b82b2b);
+  background-image: linear-gradient(to bottom, #f8ff29, #b82b2b);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #000000;
+  font-size: 90%;
+  padding: 2px 10px 2px 10px;
+  text-decoration: none;
+}
+
+#lbtn:hover {
+  background: #fc3c3c;
+  background-image: -webkit-linear-gradient(top, #fc3c3c, #b1bd07);
+  background-image: -moz-linear-gradient(top, #fc3c3c, #b1bd07);
+  background-image: -ms-linear-gradient(top, #fc3c3c, #b1bd07);
+  background-image: -o-linear-gradient(top, #fc3c3c, #b1bd07);
+  background-image: linear-gradient(to bottom, #fc3c3c, #b1bd07);
+  text-decoration: none;
+}

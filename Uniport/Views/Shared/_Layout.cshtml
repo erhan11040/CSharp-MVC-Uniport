@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title UniPort</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="../Content/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="../fonts/font-awesome.min.css" type="text/css" media="screen">
+    <!-- ek stiller -->
+    <link href="../Content/style.css" rel="stylesheet">
+    <style>
+         .asd:hover
+        {
+	        text-decoration: none;
+	        color: red;
+        }
+     </style>
+    <script type="text/javascript" src="../Scripts/jquery-2.2.3.min.js"></script>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../Scripts/jquery-2.2.3.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../Scripts/bootstrap.min.js"></script>
+    <script src="../Scripts/dropdowsnjs.js"> </script>
+
+</head>
+
+
+<body style="background-color:#ddd; align-content:center;">
+   
+        <header class="navbar navbar-inverse navbar-top" style="background-color:white; margin-top:0; border-color:transparent;">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <table border="0" style="width:100%; position:relative;">
+                        <tr>
+                            <td class="baslikkolon1">
+                                <h3 style="margin-top:6%;"><baslik1 style="color:red;">Uni</baslik1><baslik2 style="color:orange;">Port</baslik2></h3>
+                            </td>
+                            <td class="baslikkolon2 asd">
+                                <ul class="nav navbar-nav  asd" style="color:snow;">
+                                    <li class="asd">@Html.ActionLink("Anasayfa", "Index", "Home")</li>
+                                    <li class="asd">@Html.ActionLink("İlanlar", "ilanlar", "Home")</li>
+                                    <li class="asd">@Html.ActionLink("İlanver", "ilanver", "Home")</li>
+                                    <li class="asd">@Html.ActionLink("Satıştakiler", "satistakiler", "Home")</li>
+                                    <li class="asd">@Html.ActionLink("Hakkimizda", "hakkimizda", "Home")</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <!--üstteki xs de kaybolan başlık yazısı degistirilecek-->
+                </div><!-- /.navbar-collapse if else al eger girisyapıldıysa 1 degeri yollansın 1 degeri geldiyse kaybolsun -->
+            </div><!-- /.container -->
+        </header>
+    <div style="margin-left:10%; width:1500px;">
+        <!--üst kısım-->
+        @RenderBody()
+        <hr />
+        <!--yukarı cıkma butonuuuuu-->
+        <div id="topbut">
+            <script type="text/javascript" src="js/jstopbut.js" language="javascript">
+            </script>
+            <img width="50" height="50" src="images/yukari.png" />
+        </div>
+        <footer>
+
+            <div class="copyr col-md-10  col-xs-10 col-lg-10">
+
+                <div class="container  " style="background-color:#e5eabf; padding:20px; border-radius:100px; ">
+
+                    <div class="col-md-9 text-info  col-xs-9 col-lg-9 ">
+
+                        <strong>Copyright &copy; Okumuş Company</strong>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </footer>
+    </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+
+

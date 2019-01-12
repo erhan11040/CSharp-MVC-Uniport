@@ -1,0 +1,344 @@
+@import url('dropdown.css');
+@import url('verticaldropdown.css');
+@import url('loginbut.css');
+@import url('w3.css');
+@import url('checkb.css');
+@import url('sat.css');
+.logoresim
+{
+	position: inherit;
+	float:left;
+	clear: both;
+	width: 80%;
+	height: 80%;
+}
+.baslikkolon1
+{
+	text-align: center;
+	padding-bottom: 0%;
+	width:20%;
+}
+.baslikkolon2
+{	
+
+	padding-top: 0.5%;
+	padding-left:10%;
+	width:80%;
+}
+
+.basliklink
+{
+	color:black;
+
+}
+.basliklink:hover
+{
+	color:red;
+	
+}
+#logintx
+{  
+  
+   width:31%;
+   height:10px;
+   border:2px solid silver;
+   border-radius:100px;
+    padding:3.3%;
+}
+ #passwordtx
+{
+  
+   width:31%;
+   height:10px;
+   border:2px solid silver;
+   border-radius:100px;
+   padding:3.3%;
+
+}
+.secenekpaneli
+{
+	margin-left: 15%;
+
+}
+.gununfirsatiresim
+{
+	border-radius: 10px;
+	width:300px;
+	height: 300px;
+}
+.arama
+{
+	
+	width:100%;
+	padding:0.5%;
+
+}
+.aramaicerik
+{
+width:340px;
+height: 300px;
+}
+.aramad
+{
+	background-color: white;
+	width:340px;
+height: 450px;
+margin-right: 8px;
+margin-top: 8px;
+border-radius: 10px;
+}
+.sifremiunuttum
+{
+
+	margin-left: 8%;
+	font-weight: bold;	
+	margin-right: 8%;
+}
+.uyeol
+{
+	
+	font-weight: bold;	
+	
+}
+
+.slaytfiyat
+{
+	color:white;
+}
+
+.sagresim
+{
+
+	width: 100%;
+	height:337px;
+}
+
+#topbut {
+    bottom: -15px;
+    bottom: -25px;
+    display: none;
+    height: 100px;
+    position: fixed;
+    right: 20px;
+}
+.copyr
+{
+	background-color:#e5eabf;
+	border-radius: 200px;
+	margin-left: 7%;
+	margin-right:7%;
+	margin-top: 30px;
+	padding: 19px;
+
+
+}
+
+
+
+/* SQUARED TWO */
+.squaredTwo2 {
+	width: 10px;
+	height: 10px;
+	padding-left: 4px;
+	padding-right: 7.77px;
+	padding-bottom: 3.4px;
+	padding-top: 0.5px;
+	
+	border-radius: 4px;
+	background: rgba(170, 222, 15, 0.8);;
+	
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfff4', endColorstr='#b3bead',GradientType=0 );
+	margin: 20px auto;
+
+	-webkit-box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0,0,0,0.5);
+	-moz-box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0,0,0,0.5);
+	box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0,0,0,0.5);
+	position: relative;
+}
+
+.squaredTwo2 label {
+	cursor: pointer;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 1.8px;
+	top: 1px;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,1);
+	-moz-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,1);
+	box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,1);
+
+	background: #ddd;
+	
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222', endColorstr='#45484d',GradientType=0 );
+}
+
+.squaredTwo2 label:after {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	opacity: 0;
+	content: '';
+	position: absolute;
+	width: 12px;
+	height: 8px;
+	background: transparent;
+	top: 4px;
+	left: 4px;
+	border: 3px solid #e21818;
+	border-top: none;
+	border-right: none;
+
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+
+.squaredTwo2 label:hover::after {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
+	opacity: 0.3;
+}
+
+.squaredTwo2 input[type=checkbox]:checked + label:after {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	opacity: 1;
+}
+
+
+/* SQUARED TWO */
+.squaredTwo3 {
+	width: 10px;
+	height: 10px;
+	padding-left: 4px;
+	padding-right: 7.77px;
+	padding-bottom: 3.4px;
+	padding-top: 0.5px;
+	
+	border-radius: 4px;
+	background:rgb(255, 237, 0);
+	
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfff4', endColorstr='#b3bead',GradientType=0 );
+	margin: 20px auto;
+
+	-webkit-box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0,0,0,0.5);
+	-moz-box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0,0,0,0.5);
+	box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0,0,0,0.5);
+	position: relative;
+}
+
+.squaredTwo3 label {
+	cursor: pointer;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 1.8px;
+	top: 1px;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,1);
+	-moz-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,1);
+	box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,1);
+
+	background: #ddd;
+	
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222', endColorstr='#45484d',GradientType=0 );
+}
+
+.squaredTwo3 label:after {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	opacity: 0;
+	content: '';
+	position: absolute;
+	width: 12px;
+	height: 8px;
+	background: transparent;
+	top: 4px;
+	left: 4px;
+	border: 3px solid #e21818;
+	border-top: none;
+	border-right: none;
+
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+
+.squaredTwo3 label:hover::after {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
+	opacity: 0.3;
+}
+
+.squaredTwo3 input[type=checkbox]:checked + label:after {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	opacity: 1;
+	
+}
+
+#filtreliarama
+{
+	border-radius: 100px;
+	border-color: red;
+	background-color: yellow;
+	color:red;
+	padding:5px;
+
+}
+a:hover{
+	text-decoration: none;
+	color: red;
+}
+.urundetay
+{
+	width:100%;
+	height:500px;
+}
+
+
+
+
+
+
+.starRating:not(old){
+  display        : inline-block;
+  width          : 7.5em;
+  height         : 1.5em;
+  overflow       : hidden;
+  vertical-align : bottom;
+}
+
+.starRating:not(old) > input{
+  margin-right : -100%;
+  opacity      : 0;
+}
+
+.starRating:not(old) > label{
+  display         : block;
+  float           : right;
+  position        : relative;
+  background      : url('/star-off.svg');
+  background-size : contain;
+}
+
+.starRating:not(old) > label:before{
+  content         : '';
+  display         : block;
+  width           : 1.5em;
+  height          : 1.5em;
+  background      : url('/star-on.svg');
+  background-size : contain;
+  opacity         : 0;
+  transition      : opacity 0.2s linear;
+}
+
+.starRating:not(old) > label:hover:before,
+.starRating:not(old) > label:hover ~ label:before,
+.starRating:not(:hover) > :checked ~ label:before{
+  opacity : 1;
+}
